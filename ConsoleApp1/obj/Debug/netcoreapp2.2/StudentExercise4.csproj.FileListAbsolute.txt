@@ -1,0 +1,11 @@
+C:\Users\maryj\workspace\csharp\StudentExercise4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\StudentExercise4.deps.json
+C:\Users\maryj\workspace\csharp\StudentExercise4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\StudentExercise4.runtimeconfig.json
+C:\Users\maryj\workspace\csharp\StudentExercise4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\StudentExercise4.runtimeconfig.dev.json
+C:\Users\maryj\workspace\csharp\StudentExercise4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\StudentExercise4.dll
+C:\Users\maryj\workspace\csharp\StudentExercise4\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\StudentExercise4.pdb
+C:\Users\maryj\workspace\csharp\StudentExercise4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\StudentExercise4.csprojAssemblyReference.cache
+C:\Users\maryj\workspace\csharp\StudentExercise4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\StudentExercise4.csproj.CoreCompileInputs.cache
+C:\Users\maryj\workspace\csharp\StudentExercise4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\StudentExercise4.AssemblyInfoInputs.cache
+C:\Users\maryj\workspace\csharp\StudentExercise4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\StudentExercise4.AssemblyInfo.cs
+C:\Users\maryj\workspace\csharp\StudentExercise4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\StudentExercise4.dll
+C:\Users\maryj\workspace\csharp\StudentExercise4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\StudentExercise4.pdb
